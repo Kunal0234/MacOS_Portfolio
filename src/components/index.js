@@ -3,4 +3,4 @@ import Welcome from "#components/Welcome.jsx";
 import Dock from "#components/Dock.jsx";
 import Terminal from "#windows/Terminal.jsx";
 import WindowControls from "./WindowControls";
-export { Navbar, Welcome, Dock, Terminal,WindowControls };
+export { Navbar, Welcome, Dock, Terminal, WindowControls };
